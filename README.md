@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Z4Tur&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z4Tur&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Z4Tur&icon=2&color=9)](https://visitcount.itsvg.in) 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 Z4TUR/Z4TUR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
