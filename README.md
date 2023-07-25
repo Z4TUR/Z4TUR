@@ -2,8 +2,10 @@
 - 👀 Estoy interesado en el aprendizaje en general, los lenguajes de programación, la música y mucho más. 
 - 🌱 En este momento me encuentro aprendiendo Python, HTML/CSS/javascrip e Inglés.
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/israel-portillo-sc/)
+<h2 align="center">🌐 Socials:</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/israel-portillo-sc/">
+</p>
 <br/>
 
 <h2 align="center">💻 Tech Stack:</h2>
