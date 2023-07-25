@@ -20,19 +20,9 @@
 </p>
 <br/>
 
-<h2 align="center">📊 GitHub Stats:</h2>
+## 📊 GitHub Stats:
 
-<div align = "center">
-  
-  <object data="https://github-readme-streak-stats.herokuapp.com/?user=Z4TUR&theme=react&hide_border=true" type="application" width="250"
-    height="200"></object><br/>
-
-</div>
-  
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Z4Tur&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
-## sep
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Z4TUR)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Z4TUR&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z4TUR&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
